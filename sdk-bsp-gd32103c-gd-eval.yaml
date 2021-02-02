@@ -9,14 +9,14 @@ board:
   description_zh: 基于 GD32F103VCT6 的增强型开发板，所有的端口和外设均已引出，可完整全民的评估 GD32 系列的产品性能。
   emulator_machine: ''
   large_image: documents/images/GD32103C_EVAL.jpg
-  name: GD32103C-GD-EVAL
+  name: GD32F103C-GD-EVAL
   price_cn: 325 CNY
   price_global: 50 USD
   sale_contact_cn: https://detail.tmall.com/item.htm?id=576615324830
   sale_contact_global: https://www.tme.eu/en/details/gd32103c-eval/development-kits-others/gigadevice/
   small_image: documents/images/GD32103C_EVAL.jpg
   vendor: GigaDevice
-  version: 1.0.0
+  version: 1.0.1
 chip:
   chip_name: GD32F103VCT6
   clock_source: HSE
